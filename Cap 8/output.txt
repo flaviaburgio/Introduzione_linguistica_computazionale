@@ -1,3 +1,0 @@
-['Realtime Worlds', 'Beachhead Studios', 'Crytek Frankfurt', 'Sony Online Entertainment', 'High Moon Studios', 'Trion Worlds', 'Bungie', 'Avalanche Software', 'Square', 'Polyphony Digital']
-['APB: All Points Bulletin', 'Call of Duty: Elite', 'Crysis 3', 'DC Universe Online', 'Deadpool', 'Defiance', 'Destiny', 'Disney Infinity', 'Gran Turismo 5', 'Marathon']
-['Final Fantasy VII']
